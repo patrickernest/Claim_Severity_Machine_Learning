@@ -73,7 +73,7 @@ Let us get into training a machine learning model to make predictions. I have tr
 * Random Forest Regression
 * XGBoost Regression
 
-####3 Evaluation Metrics
+##### Evaluation Metrics
 
 The evaluation metrics that I have used are:-
 
@@ -101,7 +101,7 @@ One Hot Encoding with RFE and scaling gave me the best results which are:-
 ##### Comparison
 Below is a comparison of all the results that I got from all the iterations:-
 
-
+![3](https://cloud.githubusercontent.com/assets/10784357/22178034/a2e4e290-dff1-11e6-9a88-4ed2332b6873.png)
 
 #### RUNNING CODE
 
